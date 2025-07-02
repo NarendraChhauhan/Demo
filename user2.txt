@@ -1,0 +1,10 @@
+Name : Yuvraj Singh
+Gender : Male
+category : EBC
+Family income : 20000
+DOB : 05/03/2008
+Study : School 
+class : 11
+State : Maharashtra
+class 10 percentage : 70%
+

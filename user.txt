@@ -1,0 +1,10 @@
+Name : Yuvraj Singh
+Gender : Male
+category : General
+Family income : 700000
+DOB : 05/03/2006
+Study : College 
+Course : Btech 
+Year : 2
+State : Rajasthan
+
